@@ -36,6 +36,6 @@
   "dependencies": {
     "boom": "4.2.0",
     "joi": "~9.2.0",
-    "lodash": "~3.10.1"
+    "lodash": "~4.17.19"
   }
 }
